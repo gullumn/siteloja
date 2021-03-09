@@ -819,7 +819,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sr9ES4Ogi3 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 7.9rem);
   }
 }
 .cid-sr9ES4Ogi3 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1103,6 +1103,7 @@ a {
 }
 .cid-sr9H8hCXl2 UL {
   text-align: center;
+  color: #000000;
 }
 .cid-sr9HfEonC0 {
   padding-top: 5rem;
